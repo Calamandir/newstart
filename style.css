@@ -13,6 +13,10 @@ h1{
 
 }
 
+.animate__animated{
+  animation-duration: 2s;
+}
+
 .btn{
   font-weight: 700;
   border-radius: 300px;
